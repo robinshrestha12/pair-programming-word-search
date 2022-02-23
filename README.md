@@ -1,4 +1,5 @@
 # Pair Programming: Word Search
+Completed as a Pair Programming Assignment with Sara Vukson.
 
 This challenge comes with some initial (buggy!) code. We suggest approaching this problem with a TDD mindset, meaning "write tests, make the tests pass, repeat!".
 
